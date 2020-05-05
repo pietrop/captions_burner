@@ -1,0 +1,8 @@
+title: Captions burner
+description: NWJS os x desktop app that given a srt and a video burns the captions onto the video. Can also export as gif.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
